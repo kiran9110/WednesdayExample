@@ -16,6 +16,7 @@ public class Week3Example {
      */
     public static void main(String[] args) {
         // test
+        System.out.println("learning Pull operation");
     }
     
 }
